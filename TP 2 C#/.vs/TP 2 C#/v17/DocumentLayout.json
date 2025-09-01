@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gianni\\source\\repos\\TP 2 C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D28E2A8A-8632-4048-B52A-08EB5B5FF000}|TP 2 C#.csproj|c:\\users\\gianni\\source\\repos\\tp 2 c#\\articletyp\u00E9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D28E2A8A-8632-4048-B52A-08EB5B5FF000}|TP 2 C#.csproj|solutionrelative:articletyp\u00E9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28E2A8A-8632-4048-B52A-08EB5B5FF000}|TP 2 C#.csproj|c:\\users\\gianni\\source\\repos\\tp 2 c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D28E2A8A-8632-4048-B52A-08EB5B5FF000}|TP 2 C#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticleTyp\u00E9.cs",
+              "DocumentMoniker": "C:\\Users\\Gianni\\source\\repos\\TP 2 C#\\ArticleTyp\u00E9.cs",
+              "RelativeDocumentMoniker": "ArticleTyp\u00E9.cs",
+              "ToolTip": "C:\\Users\\Gianni\\source\\repos\\TP 2 C#\\ArticleTyp\u00E9.cs",
+              "RelativeToolTip": "ArticleTyp\u00E9.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T08:42:09.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gianni\\source\\repos\\TP 2 C#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Gianni\\source\\repos\\TP 2 C#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T08:41:33.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

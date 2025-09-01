@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gianni\\source\\repos\\TP3 C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CCE7CC-4F0E-4753-8988-971A65307EC8}|TP3 C#.csproj|c:\\users\\gianni\\source\\repos\\tp3 c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CCE7CC-4F0E-4753-8988-971A65307EC8}|TP3 C#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CCE7CC-4F0E-4753-8988-971A65307EC8}|TP3 C#.csproj|c:\\users\\gianni\\source\\repos\\tp3 c#\\articletableau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CCE7CC-4F0E-4753-8988-971A65307EC8}|TP3 C#.csproj|solutionrelative:articletableau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CCE7CC-4F0E-4753-8988-971A65307EC8}|TP3 C#.csproj|c:\\users\\gianni\\source\\repos\\tp3 c#\\articletyp\u00E9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CCE7CC-4F0E-4753-8988-971A65307EC8}|TP3 C#.csproj|solutionrelative:articletyp\u00E9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticleTyp\u00E9.cs",
+              "DocumentMoniker": "C:\\Users\\Gianni\\source\\repos\\TP3 C#\\ArticleTyp\u00E9.cs",
+              "RelativeDocumentMoniker": "ArticleTyp\u00E9.cs",
+              "ToolTip": "C:\\Users\\Gianni\\source\\repos\\TP3 C#\\ArticleTyp\u00E9.cs",
+              "RelativeToolTip": "ArticleTyp\u00E9.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwC8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T09:06:19.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticleTableau.cs",
+              "DocumentMoniker": "C:\\Users\\Gianni\\source\\repos\\TP3 C#\\ArticleTableau.cs",
+              "RelativeDocumentMoniker": "ArticleTableau.cs",
+              "ToolTip": "C:\\Users\\Gianni\\source\\repos\\TP3 C#\\ArticleTableau.cs",
+              "RelativeToolTip": "ArticleTableau.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T09:05:28.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gianni\\source\\repos\\TP3 C#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Gianni\\source\\repos\\TP3 C#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T09:04:55.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
