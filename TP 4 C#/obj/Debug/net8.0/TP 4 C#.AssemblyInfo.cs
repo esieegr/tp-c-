@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP 4 C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b08d86d5bf6ed5a30e2a99d962ac107c02879129")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8386ca1e4be53731cbf959fee8476b002f21bed")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP 4 C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP 4 C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

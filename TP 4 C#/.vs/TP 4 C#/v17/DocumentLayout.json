@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Gianni\\source\\repos\\TP 4 C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8137F1F-0728-41F0-97FB-1C03687E5E56}|TP 4 C#.csproj|c:\\users\\gianni\\source\\repos\\tp 4 c#\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8137F1F-0728-41F0-97FB-1C03687E5E56}|TP 4 C#.csproj|solutionrelative:article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8137F1F-0728-41F0-97FB-1C03687E5E56}|TP 4 C#.csproj|c:\\users\\gianni\\source\\repos\\tp 4 c#\\disque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8137F1F-0728-41F0-97FB-1C03687E5E56}|TP 4 C#.csproj|solutionrelative:disque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8137F1F-0728-41F0-97FB-1C03687E5E56}|TP 4 C#.csproj|c:\\users\\gianni\\source\\repos\\tp 4 c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8137F1F-0728-41F0-97FB-1C03687E5E56}|TP 4 C#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8137F1F-0728-41F0-97FB-1C03687E5E56}|TP 4 C#.csproj|c:\\users\\gianni\\source\\repos\\tp 4 c#\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8137F1F-0728-41F0-97FB-1C03687E5E56}|TP 4 C#.csproj|solutionrelative:article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8137F1F-0728-41F0-97FB-1C03687E5E56}|TP 4 C#.csproj|c:\\users\\gianni\\source\\repos\\tp 4 c#\\irentable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D8137F1F-0728-41F0-97FB-1C03687E5E56}|TP 4 C#.csproj|c:\\users\\gianni\\source\\repos\\tp 4 c#\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8137F1F-0728-41F0-97FB-1C03687E5E56}|TP 4 C#.csproj|solutionrelative:livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8137F1F-0728-41F0-97FB-1C03687E5E56}|TP 4 C#.csproj|c:\\users\\gianni\\source\\repos\\tp 4 c#\\disque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8137F1F-0728-41F0-97FB-1C03687E5E56}|TP 4 C#.csproj|solutionrelative:disque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Publication.cs",
               "DocumentMoniker": "C:\\Users\\Gianni\\source\\repos\\TP 4 C#\\Publication.cs",
               "RelativeDocumentMoniker": "Publication.cs",
@@ -50,25 +50,24 @@
               "RelativeToolTip": "Publication.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T14:46:25.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T14:46:25.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Article.cs",
               "DocumentMoniker": "C:\\Users\\Gianni\\source\\repos\\TP 4 C#\\Article.cs",
               "RelativeDocumentMoniker": "Article.cs",
               "ToolTip": "C:\\Users\\Gianni\\source\\repos\\TP 4 C#\\Article.cs",
               "RelativeToolTip": "Article.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-01T14:09:03.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Video.cs",
               "DocumentMoniker": "C:\\Users\\Gianni\\source\\repos\\TP 4 C#\\Video.cs",
               "RelativeDocumentMoniker": "Video.cs",
@@ -76,25 +75,24 @@
               "RelativeToolTip": "Video.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T14:00:07.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T14:00:07.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Disque.cs",
               "DocumentMoniker": "C:\\Users\\Gianni\\source\\repos\\TP 4 C#\\Disque.cs",
               "RelativeDocumentMoniker": "Disque.cs",
               "ToolTip": "C:\\Users\\Gianni\\source\\repos\\TP 4 C#\\Disque.cs",
               "RelativeToolTip": "Disque.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-01T13:59:56.35Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Livre.cs",
               "DocumentMoniker": "C:\\Users\\Gianni\\source\\repos\\TP 4 C#\\Livre.cs",
               "RelativeDocumentMoniker": "Livre.cs",
@@ -102,12 +100,11 @@
               "RelativeToolTip": "Livre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T13:59:45.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T13:59:45.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IRentable.cs",
               "DocumentMoniker": "C:\\Users\\Gianni\\source\\repos\\TP 4 C#\\IRentable.cs",
               "RelativeDocumentMoniker": "IRentable.cs",
@@ -115,8 +112,7 @@
               "RelativeToolTip": "IRentable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T13:56:55.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T13:56:55.678Z"
             },
             {
               "$type": "Document",
@@ -126,7 +122,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Gianni\\source\\repos\\TP 4 C#\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwCMAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-01T13:55:39.222Z",
               "EditorCaption": ""
